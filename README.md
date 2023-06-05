@@ -14,7 +14,7 @@
 ### 🌱 I’m currently studying in ...
 - [42 Seoul](https://42seoul.kr/seoul42/main/view)
   - Cadet (2021.05.03 ~ 2023.03.02)
-  - Member (2022.03.02. ~ )
+  - Member (2023.03.02. ~ )
 - [Kookmin University](https://www.kookmin.ac.kr/user/index.do)
   - B.S.Student (2017.03 ~ )
 
