@@ -11,6 +11,10 @@
 ![Docker badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Docker-compose badge](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
+### 🔭 I’m currently working on ...
+- [zkrypto](https://www.zkrypto.com)
+  - Intern (2023.07.01 ~ )
+
 ### 🌱 I’m currently studying in ...
 - [42 Seoul](https://42seoul.kr/seoul42/main/view)
   - Cadet (2021.05.03 ~ 2023.03.02)
