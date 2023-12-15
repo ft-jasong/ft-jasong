@@ -12,7 +12,7 @@
 ![Docker-compose badge](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 ### 🔭 I’m currently working on ...
-- [zkrypto](https://www.zkrypto.com)
+- [Zkrypto.Inc](https://www.zkrypto.com)
   - Intern (2023.07.01 ~ )
 
 ### 🌱 I’m currently studying in ...
