@@ -13,15 +13,15 @@
 
 ### 🔭 I’m currently working on ...
 - [Zkrypto.Inc](https://www.zkrypto.com)
-  - Intern (2023.07.01 ~ 2023.12.31)
+  - Intern (2023.07 ~ 2023.12)
     - Developed backend server in the production of the PoC based on the zkLogis thesis, a logistics tracking system using public blockchain and ZKP(Zero Knowledge Proof). RESTful api using NestJS framework and Web3.js libraries was provided.
     - Built an Express server of zkVoting:PollStation, a blockchain that won the CES 2024 Best Innovation Award, and a voting system using ZKP, and provided RESTful api that connects client apps with blockchain servers and computational servers.
-  - Software Developer / DevOps (2024.02.01 ~ 2024.08.31)
+  - Software Developer / DevOps (2024.02 ~ 2024.08)
     - Made CI / CD pipeline with using On-premise k8s, AWS EKS, AWS ECR, and ArgoCD
     - Managed On-premise k8s environment for dev and AWS EKS for production
 - [Hyundai-Autoever](https://www.hyundai-autoever.com)
-  - Software Engineer (2024.9.9 ~ Current)
-    - TBD
+  - Software Engineer (2024.9 ~ )
+    - GitOps / DevOps
 
 ### 🌱 I’m currently studying in ...
 - [42 Seoul](https://42seoul.kr/seoul42/main/view)
