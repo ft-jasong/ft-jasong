@@ -13,7 +13,7 @@
 
 ### 🔭 I’m currently working on ...
 - [Zkrypto.Inc](https://www.zkrypto.com)
-  - Intern (2023.07 ~ 2023.12)
+  - Software Developer (2023.07 ~ 2023.12)
     - Developed backend server in the production of the PoC based on the zkLogis thesis, a logistics tracking system using public blockchain and ZKP(Zero Knowledge Proof). RESTful api using NestJS framework and Web3.js libraries was provided.
     - Built an Express server of zkVoting:PollStation, a blockchain that won the CES 2024 Best Innovation Award, and a voting system using ZKP, and provided RESTful api that connects client apps with blockchain servers and computational servers.
   - Software Developer / DevOps (2024.02 ~ 2024.08)
