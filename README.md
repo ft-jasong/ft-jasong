@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Jaeryong Song
 
+## 똥
+
+<!--
 ### 💻 I’m currently learning ...
 ![C badge](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![CPP badge](https://img.shields.io/badge/-CPP-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
@@ -32,6 +35,7 @@
   - Minored Software
 
 ![jasong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ft-jasong&count_private=true&show_icons=true&theme=dark)
+-->
 
 <!--
 **ft-jasong/ft-jasong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
